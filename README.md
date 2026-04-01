@@ -14,3 +14,6 @@ git少し理解できた
 -GitHubを使えるようになる
 -branchを覚える
 -pushを覚える
+
+##branch練習
+practice branchで編集
