@@ -17,3 +17,15 @@ git少し理解できた
 
 ##branch練習
 practice branchで編集
+
+##学習記録
+2026-04-01
+#今日やったこと
+-git基本操作
+-add / commit
+-branch
+-merge
+-GitHub push
+
+#感想
+Gitの流れが理解できた。
